@@ -1,0 +1,4 @@
+/Users/joserojasrocha/Desktop/Lab2/build/CMakeFiles/server.dir
+/Users/joserojasrocha/Desktop/Lab2/build/CMakeFiles/client.dir
+/Users/joserojasrocha/Desktop/Lab2/build/CMakeFiles/edit_cache.dir
+/Users/joserojasrocha/Desktop/Lab2/build/CMakeFiles/rebuild_cache.dir

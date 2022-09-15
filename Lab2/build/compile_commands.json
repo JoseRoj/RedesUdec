@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/server.dir/src/server.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/server.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/server.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/server.dir/src/udp.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/udp.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/udp.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/server.dir/src/rtt.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/rtt.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/rtt.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/server.dir/src/rudp.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/rudp.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/rudp.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/server.dir/src/util.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/util.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/util.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/client.dir/src/client.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/client.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/client.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/client.dir/src/udp.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/udp.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/udp.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/client.dir/src/rtt.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/rtt.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/rtt.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/client.dir/src/rudp.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/rudp.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/rudp.c"
+},
+{
+  "directory": "/Users/joserojasrocha/Desktop/Lab2/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/Users/joserojasrocha/Desktop/Lab2/include  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -std=gnu11 -o CMakeFiles/client.dir/src/util.c.o -c /Users/joserojasrocha/Desktop/Lab2/src/util.c",
+  "file": "/Users/joserojasrocha/Desktop/Lab2/src/util.c"
+}
+]
